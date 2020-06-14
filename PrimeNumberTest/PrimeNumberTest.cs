@@ -75,7 +75,7 @@ namespace PrimeNumberTest
 
 
         [Fact]
-        public void CreatePrimeMultiplicationTable_When_Input_Is_List_Of_Prime_Numbers_Return_Multiplication_Answers()
+        public void Create_Prime_MultiplicationTable_When_Input_Is_List_Of_Prime_Numbers_Return_Multiplication_Answers()
         {
             //Arrange
             var input = new List<int>(){2,3,5};

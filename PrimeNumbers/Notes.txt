@@ -1,0 +1,6 @@
+﻿Notes:
+I decided against using a interface for this simple task of creating the prime numbers. 
+I could have used a static class but I think it is perfectly fine to use poor man DI in certain scenarios such as this. 
+I based the prime numbers on this algorithim below:
+https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+I could have done more variations on the multipication part for the unit tests but ran out of time, but I hope that is enough. 
